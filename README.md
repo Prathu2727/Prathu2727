@@ -1,5 +1,9 @@
 # 💫 About Me:
-      I   there! I'm [Prathmesh Chaudhari]<br>🔧 Passionate about building robust software and solving real-world problems through code.<br>🌟 Skills: [ Python, Java, c, etc.]<br>🚀 Interests: [web development, AI ml, etc.]<br>💡 Always learning, always improving.
+I there! I'm [Prathmesh Chaudhari]
+ <br>🔧 Passionate about building robust software and solving real-world problems through code.
+ <br>🌟 Skills: [ Python, Java, c, etc.]
+ <br>🚀 Interests: [web development, AI ml, etc.]
+ <br>💡 Always learning, always improving.
 
 
 ## 🌐 Socials:
